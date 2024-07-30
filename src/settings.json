@@ -1,0 +1,72 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "Don't miss out on GopherCon this year from June 7 – 9 in Denver!",
+        "eventName": "GopherCon",
+        "linkText": "Get Your Tickets!!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Make Waves in the World of Development",
+        "title": "Yay: Your Engineering Odyssey Begins Here"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Make Waves in the World of Development",
+        "title": "Yay: Your Engineering Odyssey Begins Here"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Make Waves in the World of Development",
+        "title": "Yay: Your Engineering Odyssey Begins Here"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Make Waves in the World of Development",
+        "title": "Yay: Your Engineering Odyssey Begins Here"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Make Waves in the World of Development",
+        "title": "Yay: Your Engineering Odyssey Begins Here"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Make Waves in the World of Development",
+        "title": "Yay: Your Engineering Odyssey Begins Here"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Make Waves in the World of Development",
+        "title": "Yay: Your Engineering Odyssey Begins Here"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Inspire, Innovate, and Make Waves in the World of Development",
+        "title": "Yay: Your Engineering Odyssey Begins Here"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Yay: Your Engineering Odyssey Begins Here",
+  "subtitle": "Inspire, Innovate, and Make Waves in the World of Development"
+}
